@@ -1,0 +1,14 @@
+,train,test
+n_raw_rows,166450,9387
+n_nan_ohlc,3745,17
+n_off_grid,573,3
+n_off_grid_flat_no_volume,573,3
+n_clean_bars,162132,9367
+start,2022-06-01 00:00:00+00:00,2023-12-31 00:00:00+00:00
+end,2023-12-31 00:00:00+00:00,2024-06-03 03:25:00+00:00
+n_short_gaps,271,9
+n_breaks,3,1
+max_gap,2 days 00:05:00,122 days 13:35:00
+n_segments,4,2
+n_inconsistent_ohlc,0,0
+n_flat_bars,2782,26

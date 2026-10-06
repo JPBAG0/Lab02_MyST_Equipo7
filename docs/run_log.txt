@@ -1,0 +1,19 @@
+[     0 s] Cargando, limpiando y auditando datos
+[     0 s] Walk-forward con un solo theta: 17 ventanas x 150 pruebas
+  ventana 10 de 17  (60 s)
+[    96 s] Walk-forward con un theta por régimen
+  ventana 10 de 17  (119 s)
+[   295 s] Recalculando theta sobre todo el train
+[   347 s] theta recalculado IGUAL al congelado (docs/theta_frozen.json)
+[   347 s] Evaluando en test y en validación con theta congelado
+/Users/gian/Documents/ITESO/MyST/Lab02_MyST_Equipo7/src/metrics.py:32: RuntimeWarning: invalid value encountered in scalar divide
+  return r.mean() / r.std() * np.sqrt(BARS_PER_YEAR)
+/Users/gian/Documents/ITESO/MyST/Lab02_MyST_Equipo7/src/metrics.py:38: RuntimeWarning: invalid value encountered in scalar divide
+  return r.mean() / downside * np.sqrt(BARS_PER_YEAR)
+/Users/gian/Documents/ITESO/MyST/Lab02_MyST_Equipo7/src/metrics.py:32: RuntimeWarning: invalid value encountered in scalar divide
+  return r.mean() / r.std() * np.sqrt(BARS_PER_YEAR)
+/Users/gian/Documents/ITESO/MyST/Lab02_MyST_Equipo7/src/metrics.py:38: RuntimeWarning: invalid value encountered in scalar divide
+  return r.mean() / downside * np.sqrt(BARS_PER_YEAR)
+[   348 s] Robustez: 2 de 3 contra un indicador, sensibilidad de ±20% y curva de costos
+[   361 s] Generando figuras
+[   365 s] Listo. Tablas en docs/tables y figuras en docs/figures

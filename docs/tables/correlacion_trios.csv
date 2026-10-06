@@ -1,0 +1,5 @@
+,correlacion_media,correlacion_maxima
+ema_cross + rsi + keltner,0.5536532555381518,0.6669147715601464
+ema_cross + roc + keltner,0.4265476960041708,0.5359842665418476
+donchian + rsi + keltner,0.4479233431683986,0.6669147715601464
+donchian + roc + keltner,0.33479920074177,0.5359842665418476
