@@ -1,0 +1,18 @@
+{
+  "pruebas_por_ventana": 150,
+  "ventanas": 17,
+  "calmar_entrenamiento_mediano": -1.1907560427245598,
+  "calmar_fuera_de_muestra": -2.2029143994534723,
+  "diferenciacion_reversion_vs_tendencia": {
+    "diferencia_media": -0.767104637552554,
+    "p_welch": 0.11487358951538544,
+    "ic95_bajo": -1.7236691926378789,
+    "ic95_alto": 0.08890067146051524
+  },
+  "configuraciones_walk_forward_theta_unico": 2550,
+  "configuraciones_walk_forward_por_regimen": 7500,
+  "configuraciones_theta_congelado": 600,
+  "comision_equilibrio_bps_por_lado": 24.394537823500634,
+  "configuraciones_totales": 10650,
+  "tiempo_total_s": 365
+}
